@@ -1,4 +1,4 @@
-# Hello folks, I'm André Carneiro 👋
+## Hello folks, I'm André Carneiro 👋
 
 - 🔭 I’m currently working on Vinta Software
 - 🌱 I’m currently learning about async jobs and multithreading in python
