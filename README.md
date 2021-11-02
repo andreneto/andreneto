@@ -6,11 +6,9 @@
 - 😄 Pronouns: he/his - they/their
 - 🎧 Love weird music and movies
 
-<!--
-**andreneto/andreneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📫 Reach me at:
 
-
-
--->
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrenet0)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrent/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandrecneto@gmail.com)
