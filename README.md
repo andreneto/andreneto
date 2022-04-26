@@ -1,6 +1,6 @@
 ## Hello folks, I'm André Carneiro 👋
 
-- 🔭 I’m currently working on Vinta Software
+- 🔭 I’m currently working on Loadsmart
 - 🌱 I’m currently learning about async jobs and multithreading in python
 - 💬 Ask me about web dev, react and django
 - 😄 Pronouns: he/his - they/their
