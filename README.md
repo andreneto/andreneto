@@ -2,7 +2,6 @@
 
 - 🌱 I'm strongly interested in distributed systems along with its challenges and tooling
 - 👾 I'm also amazed by game design and the mechanics of having fun
-- 😄 Pronouns: he/his
 - 🎧 Love all genre of music and movies
 
 
